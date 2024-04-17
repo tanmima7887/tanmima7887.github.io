@@ -1,6 +1,6 @@
 # Hi, I'm Tanmim Ahmmed 👋
 
-I'm an AI/ML engineer passionate about AI. Welcome to my GitHub profile!
+I'm an AI/ML/Data engineer passionate about AI. Welcome to my GitHub profile!
 
 ## About Me
 
